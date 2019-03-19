@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/RicardoJustino/video-maker.git"
   },
-  "author": "",
+  "author": "Ricardo Justino",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RicardoJustino/video-maker/issues"
   },
-  "homepage": "https://github.com/RicardoJustino/video-maker#readme"
+  "homepage": "https://github.com/RicardoJustino/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
